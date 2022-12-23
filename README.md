@@ -10,3 +10,4 @@ You can also find my solution here with a link to the Scrimba fork.
 
 1) [Panic Function](https://scrimba.com/scrim/coffe4a45864a2ee3a8f21175)
 2) [Totally Private Data Farm](https://scrimba.com/scrim/coaf1485abadda28b02c89da7)
+3) [Favorite Foods](https://scrimba.com/scrim/co5174e84a3e9d54a3d089169)
