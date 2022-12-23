@@ -15,3 +15,4 @@ You can also find my solution here with a link to the Scrimba fork.
 5) [Candy Sale](https://scrimba.com/scrim/coc8d470aa29fa7ad5d3346df)
 6) [Taco Tray](https://scrimba.com/scrim/co130485a923284ba0987cd40)
 7) [Alternating Caps](https://scrimba.com/scrim/cofbd459392a478da6b14c299)
+8) [Valid Time](https://scrimba.com/scrim/co74a4d3a9c81c34d55aad08e)
