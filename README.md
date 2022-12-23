@@ -7,3 +7,5 @@ From the first of December until the 24th, a new challenge appeared every day to
 You can also find my solution here with a link to the Scrimba fork. 
 
 ---
+
+1) [Panic Function](https://scrimba.com/scrim/coffe4a45864a2ee3a8f21175)
