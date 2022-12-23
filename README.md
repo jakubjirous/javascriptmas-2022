@@ -13,3 +13,4 @@ You can also find my solution here with a link to the Scrimba fork.
 3) [Favorite Foods](https://scrimba.com/scrim/co5174e84a3e9d54a3d089169)
 4) [Whispering Function](https://scrimba.com/scrim/cocd44ee4a9b08e7b1e58aced)
 5) [Candy Sale](https://scrimba.com/scrim/coc8d470aa29fa7ad5d3346df)
+6) [Taco Tray](https://scrimba.com/scrim/co130485a923284ba0987cd40)
