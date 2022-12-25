@@ -18,3 +18,4 @@ You can also find my solution here with a link to the Scrimba fork.
 8) [Valid Time](https://scrimba.com/scrim/co74a4d3a9c81c34d55aad08e)
 9) [Title Case](https://scrimba.com/scrim/co571483fa84654881a53b50e)
 10) [Sort By Length](https://scrimba.com/scrim/coa504559bfbf9aba95dfaca6)
+11) [Decode An Alien Message](https://scrimba.com/scrim/co6fd4eb4807ddc5022c6971e)
