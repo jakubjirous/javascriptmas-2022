@@ -23,3 +23,4 @@ You can also find my solution here with a link to the Scrimba fork.
 13) [Emojify](https://scrimba.com/scrim/co1f24d87aec27810ae094ab3)
 14) [Count Vowel Consonant](https://scrimba.com/scrim/co6424f43a5ac039569e3585c)
 15) [Palindromes](https://scrimba.com/scrim/co3ef4d6d83948486cd47eb28)
+16) [Insert Dashes](https://scrimba.com/scrim/co3e84370bb674aa60149206e)
