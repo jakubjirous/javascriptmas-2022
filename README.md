@@ -29,3 +29,4 @@ You can also find my solution here with a link to the Scrimba fork.
 19) [Century From Year](https://scrimba.com/scrim/co015415c914d1312a087afa5)
 20) [Find Free Podcasts](https://scrimba.com/scrim/co23e49f69dc41f07960f5df6)
 21) [Definitely Not FizzBuzz](https://scrimba.com/scrim/coac04697842404844663360a)
+22) [Ready Tables](https://scrimba.com/scrim/cod28441ba896899d3f0492d1)
