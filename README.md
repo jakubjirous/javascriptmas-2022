@@ -22,3 +22,4 @@ You can also find my solution here with a link to the Scrimba fork.
 12) [Breakfast Menu](https://scrimba.com/scrim/cob694a0ab422d6619d9f1ec7)
 13) [Emojify](https://scrimba.com/scrim/co1f24d87aec27810ae094ab3)
 14) [Count Vowel Consonant](https://scrimba.com/scrim/co6424f43a5ac039569e3585c)
+15) [Palindromes](https://scrimba.com/scrim/co3ef4d6d83948486cd47eb28)
