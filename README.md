@@ -26,3 +26,4 @@ You can also find my solution here with a link to the Scrimba fork.
 16) [Insert Dashes](https://scrimba.com/scrim/co3e84370bb674aa60149206e)
 17) [Pumpkin's Prizes](https://scrimba.com/scrim/co84c4e0586b256ea82b4f350)
 18) [Candies](https://scrimba.com/scrim/co03d4fa18cb6410c5144886c)
+19) [Century From Year](https://scrimba.com/scrim/co015415c914d1312a087afa5)
