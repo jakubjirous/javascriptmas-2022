@@ -24,3 +24,4 @@ You can also find my solution here with a link to the Scrimba fork.
 14) [Count Vowel Consonant](https://scrimba.com/scrim/co6424f43a5ac039569e3585c)
 15) [Palindromes](https://scrimba.com/scrim/co3ef4d6d83948486cd47eb28)
 16) [Insert Dashes](https://scrimba.com/scrim/co3e84370bb674aa60149206e)
+17) [Pumpkin's Prizes](https://scrimba.com/scrim/co84c4e0586b256ea82b4f350)
