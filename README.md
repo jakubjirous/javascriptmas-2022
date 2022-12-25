@@ -30,3 +30,4 @@ You can also find my solution here with a link to the Scrimba fork.
 20) [Find Free Podcasts](https://scrimba.com/scrim/co23e49f69dc41f07960f5df6)
 21) [Definitely Not FizzBuzz](https://scrimba.com/scrim/coac04697842404844663360a)
 22) [Ready Tables](https://scrimba.com/scrim/cod28441ba896899d3f0492d1)
+23) [Holiday Gift Shopping](https://scrimba.com/scrim/cob5049b8894f1740c2579727)
